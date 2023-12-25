@@ -43,6 +43,18 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
+    title: "Microservices at Scale using AWS & Kubernetes",
+    description:
+      "Containerize and deployed a machine learning srevice using Kubernetes...",
+    url: "https://github.com/Epowei/Devops_Project_4",
+  },
+  {
+    title: "Severless TODO App",
+    description:
+      "Implement a simple TODO application functions/features using AWS Lambda and Serverless framework...",
+    url: "https://github.com/Epowei/Project-4-Serverless-TodoApp",
+  },
+  {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
